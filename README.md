@@ -31,8 +31,8 @@ Tutaj jeszcze nic nie ma ale pracuję nad tym.
 * SQL w mgnieniu oka. - Forta Ben - zamówiona jeszcze nie przeczytana
 
 # Grupy testerskie (FB)
-* Tester oprogramowania - wsparcie na starcie
-* Kurs Tester Manualny
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca)
 
 # Polecane Blogi
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl )
