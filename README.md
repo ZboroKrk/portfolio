@@ -35,8 +35,8 @@ Tutaj jeszcze nic nie ma ale pracuję nad tym.
 * Kurs Tester Manualny
 
 # Polecane Blogi
-* [remigiuszbednarczyk.pl] (https://remigiuszbednarczyk.pl )
-* [testerzy.pl] (https://testerzy.pl)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl )
+* [testerzy.pl](https://testerzy.pl)
 
 # Dokumentacja testowa
 wkrótce 
