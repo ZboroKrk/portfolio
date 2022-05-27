@@ -1,5 +1,4 @@
-# portfolio
-My Tester`s Portfolio
+# Portfolio
 
 # Sekcja 'O mnie'
 W testowaniu jestem zielony, na tą chwilę. Od 20 lat pracuję jako geodeta a od 6 jako agent nieruchomości.
