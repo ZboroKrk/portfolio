@@ -3,8 +3,8 @@
 # Sekcja 'O mnie'
 W testowaniu jestem zielony, na tą chwilę. Od 20 lat pracuję jako geodeta a od 6 jako agent nieruchomości.
 Dzisiaj doszedłem do wniosku, iż czas wrócić do tego co mnie zawsze pociągało, czyli IT.
-W świat IT chcę wejść wykorzystując moje cechy charakteru oraz doświadczenie zawodowe.
-Jako geodeta zodobyłem między innymi następujące checy:
+W świat IT chcę wejść wykorzystując moje doświadczenie zawodowe.
+Jako geodeta zdobyłem między innymi następujące cechy:
 * skrupulatność
 * dociekliwość
 * myślenie analityczne
