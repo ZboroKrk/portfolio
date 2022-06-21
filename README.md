@@ -9,6 +9,7 @@ Jako geodeta zdobyłem między innymi następujące cechy:
 * dociekliwość
 * myślenie analityczne
 * dokładność
+
 Natomiast jako agent nieruchomości:
 * komunikatywność
 * kreatywność
