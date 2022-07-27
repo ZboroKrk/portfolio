@@ -1,8 +1,13 @@
 # Portfolio
 
 # Sekcja 'O mnie'
-W testowaniu jestem zielony, na tą chwilę. Od 20 lat pracuję jako geodeta a od 6 jako agent nieruchomości.
-Dzisiaj doszedłem do wniosku, iż czas wrócić do tego co mnie zawsze pociągało, czyli IT.
+Jestem otwarty na oferty pracy lub stażu na stannowisku:
+- junior manual tester
+- junior automation tester
+- junior Python developer
+
+Jestem nastawiony na nauke.
+
 W świat IT chcę wejść wykorzystując moje doświadczenie zawodowe.
 Jako geodeta zdobyłem między innymi następujące cechy:
 * skrupulatność
