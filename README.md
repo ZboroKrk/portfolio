@@ -22,8 +22,8 @@ Znajomi mówią, iż mam do tego smykałkę i powinienem spróbować.
 Zaczynamy!!
 
 # Narzędzia
-*PyCharm
-*Thonny
+* PyCharm
+* Thonny
 
 # Kursy
 * Podstawy manualnego testowania oprogramowania by Tester Oprogramowania
