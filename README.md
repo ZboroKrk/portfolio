@@ -22,10 +22,14 @@ Znajomi mówią, iż mam do tego smykałkę i powinienem spróbować.
 Zaczynamy!!
 
 # Narzędzia
-Tutaj jeszcze nic nie ma ale pracuję nad tym.
+*PyCharm
+*Thonny
 
 # Kursy
 * Podstawy manualnego testowania oprogramowania by Tester Oprogramowania
+* 100 day of coding - Python ( w trakcie)
+* CISCO Academy
+* uTest Academy
 
 # Książki
 * Zawód Tester, Smilgin Radosław - zamówiona jeszcze nie przeczytana
