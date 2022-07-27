@@ -24,16 +24,16 @@ Natomiast jako agent nieruchomości:
 W swojej karierze zawodowej miałem epizod z testowaniem aplikacji dla firmy produkującej oprogramowanie dla geodetów. 
 Znajomi mówią, iż mam do tego smykałkę i powinienem spróbować. 
 
-Zaczynamy!!
 
 # Narzędzia
 * PyCharm
 * Thonny
+* uTest - crowdtesting 
 
 # Kursy
 * Podstawy manualnego testowania oprogramowania by Tester Oprogramowania
 * 100 day of coding - Python ( w trakcie)
-* CISCO Academy
+* CISCO Academy (wkrótce egzamin PCEP -entry level)
 * uTest Academy
 
 # Książki
@@ -48,7 +48,4 @@ Zaczynamy!!
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl )
 * [testerzy.pl](https://testerzy.pl)
 
-# Dokumentacja testowa
-wkrótce 
 
-# Reszta po zdobyciu doświadczenia
